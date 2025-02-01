@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  cdn-oaistatic-react:
+    image: lyy0709/cdn-oaistatic-react:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: cdn-oaistatic-react
+    ports:
+      - "8642:80"
+    environment:
+      - ASSET_PREFIX=http://cdn.yourdomain.com
+      - SANDBOX_HOST=sandbox.yourdomain.com
