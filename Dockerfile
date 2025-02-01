@@ -1,5 +1,8 @@
 FROM caddy:alpine
 
+# 替换 Alpine 源为国内镜像
+RUN sed -i 's/dl-cdn.alpinelinux.org/mirrors.aliyun.com/g' /etc/apk/repositories
+
 # 安装 jq 和 rsync 工具
 RUN apk add --no-cache jq rsync
 
@@ -12,9 +15,7 @@ ENV ASSET_PREFIX http://example.com
 
 # 读取 version.json 中的 cacheBuildId
 RUN cacheBuildId=$(jq -r '.cacheBuildId' /var/www/html/version.json) && \
-    # 删除 /var/www/html/template 目录下除 cacheBuildId 同名目录外的所有目录
     find /var/www/html/template -mindepth 1 -maxdepth 1 ! -name "$cacheBuildId" -exec rm -rf {} + && \
-    # 清空 /var/www/html/assets 目录
     rm -rf /var/www/html/assets/*
 
 # 确保 assets 文件夹存在
