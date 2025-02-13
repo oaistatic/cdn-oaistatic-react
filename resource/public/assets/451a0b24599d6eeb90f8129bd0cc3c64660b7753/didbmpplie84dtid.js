@@ -1,0 +1,2 @@
+import{f2 as a,fo as r}from"./mwlpozqwnbys03vp.js";import{d as c,e as u,r as f}from"./cg166fqqcxkeiosv.js";const g=a(function(){const o=c(),{pathname:t}=u(),s=t.split("/").filter(Boolean).at(-1)||"",i=l(s);return f.useEffect(()=>{if(!i){o("/");return}o({pathname:"/",hash:"#students/"+s})},[o,t,s,i]),null});function l(e){const o=r("1919164330").config.value;if(typeof o!="object"||!o)return;const t=o.school_configurations;if(!t)return;const n=t[e];if(n)return n}export{g as default};
+//# sourceMappingURL=didbmpplie84dtid.js.map
