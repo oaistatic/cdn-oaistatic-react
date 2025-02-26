@@ -1,0 +1,2 @@
+import{j as t}from"./izh0i1dfnf8ev7x1.js";import{C as a}from"./erurtbium65czxsh.js";import{c5 as c,c6 as r}from"./fc2hzad6rtrm7s5f.js";import"./hggowi1ggrzb09yc.js";import"./ozu9ysjrlcwoblzo.js";import"./h28ootcilxet47c8.js";import"./8nxoaz0vb9p890un.js";function l(o){const e=c();if(!e)return null;switch(e){case r.ALPHA:return t.jsx(a,{...o});case r.DOGFOODING:return null}}export{l as CAFeedbackModal};
+//# sourceMappingURL=lgjckrmtbctsvsgy.js.map
