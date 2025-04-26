@@ -1,2 +1,0 @@
-import{c6 as s,c7 as u,c8 as o,c9 as c}from"./pceg3mlzf8dzw9ob.js";import{u as m}from"./n1tvutderx19k1zs.js";function A(t){const r=s(e=>u.getAutomation(t,e)),{data:a,error:n}=m({queryKey:o.getAutomationQueryKey(t),queryFn:async()=>{const e=await o.getAutomation(t);return c.setAutomation(t,e),e},enabled:t.length>0});return{automation:r||a,error:n}}export{A as u};
-//# sourceMappingURL=n43edvoxt2r1qpaw.js.map

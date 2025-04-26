@@ -1,2 +1,0 @@
-import{fF as s,fG as o,fH as t,fI as i}from"./dze2l9y9kn6nwat0.js";import{ay as r}from"./cg166fqqcxkeiosv.js";function p(){s?.publish(o.SET_WEB_RELEASE_PROPERTIES,{env:"prod",track:"stable",isRestrictedPreview:!1}),s?.registerHostEventListener!==void 0&&s?.registerHostEventListener(e=>{t.publish(e.eventName,e.payload)}),t.subscribe(i.WINDOW_FOCUS_CHANGED,e=>{window.opener||r.setFocused(e.isFocused)})}export{p as initDesktop};
-//# sourceMappingURL=dsszt0f30u6pu8jk.js.map

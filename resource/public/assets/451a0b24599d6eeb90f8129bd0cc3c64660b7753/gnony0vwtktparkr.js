@@ -1,2 +1,0 @@
-import{j as t}from"./cg166fqqcxkeiosv.js";import{dU as l,d}from"./mwlpozqwnbys03vp.js";import{H as p}from"./kv6ufg5o3s8p0dme.js";function h({className:e,elementRef:o,item:a,isActiveInMainWindow:i,isActive:n,isFirstItem:m,testId:s,hideOverflowMenu:c=!1}){const r=l();return t.jsx("li",{className:d(!r&&"relative",m&&r?"z-[15]":""),"data-testid":s,children:t.jsx(p,{className:e,conversation:a,isActiveInMainWindow:i,isActive:n,elementRef:o,testId:s,hideOverflowMenu:c})})}export{h as H};
-//# sourceMappingURL=gnony0vwtktparkr.js.map
