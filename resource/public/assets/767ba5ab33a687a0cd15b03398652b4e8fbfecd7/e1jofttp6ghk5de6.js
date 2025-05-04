@@ -1,0 +1,2 @@
+import{c3 as e}from"./j5zd9vs1l0bwsjqa.js";const i=e.div`text-base text-token-text-primary flex flex-col gap-10 my-10`,o=e.div`text-xl font-semibold`,d=e.div`text-base font-semibold`,n=e.div`flex flex-col divide-y divide-token-border-default border-y border-token-border-default`,s=e.div`flex flex-col gap-3 w-full m-auto md:m-0`,a=e.div`text-sm`,r=e.div`flex justify-between py-4 gap-4`,l=e.hr`max-w-xl border-token-border-default`;export{r as A,i as a,l as b,n as c,s as d,o as e,a as f,d as g};
+//# sourceMappingURL=e1jofttp6ghk5de6.js.map
