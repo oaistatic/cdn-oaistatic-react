@@ -13,10 +13,3 @@ gizmoconv_react_context.json
 cindex_react_context.json
 c_react_context.json
 gizmodata.json
-gptsmine_account_status.json
-gpts_account_status.json
-gizmo_account_status.json
-gptseditor_account_status.json
-gizmoconv_account_status.json
-cindex_account_status.json
-c_account_status.json
