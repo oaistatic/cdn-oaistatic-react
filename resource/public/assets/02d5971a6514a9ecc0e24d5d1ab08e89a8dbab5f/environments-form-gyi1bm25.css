@@ -1,0 +1,1 @@
+._content_dh7fm_1[data-state=open]{animation:_slideDown_dh7fm_1 .2s ease-out}._content_dh7fm_1[data-state=closed]{animation:_slideUp_dh7fm_1 .2s ease-out;overflow:hidden}@keyframes _slideDown_dh7fm_1{0%{height:0}to{height:var(--radix-accordion-content-height)}}@keyframes _slideUp_dh7fm_1{0%{height:var(--radix-accordion-content-height)}to{height:0}}

@@ -1,2 +1,0 @@
-import{r,a7 as s,j as e,a8 as c}from"./j12so9ru57hpoz1y.js";import{f$ as n}from"./j5zd9vs1l0bwsjqa.js";n.instance.addTiming("entry.client");r.startTransition(()=>{s.hydrateRoot(document,e.jsx(r.StrictMode,{children:e.jsx(c,{})}),{onRecoverableError(t,o){const a=new Error(`${t instanceof Error?t.message:String(t)}`);a.name="RecoverableError",a.stack=o.componentStack??(t instanceof Error?t.stack:String(t)),a.cause=t,n.instance.addError(a,void 0,{captureStackTrace:!1})}})});
-//# sourceMappingURL=g19n7idvpf4spf2y.js.map

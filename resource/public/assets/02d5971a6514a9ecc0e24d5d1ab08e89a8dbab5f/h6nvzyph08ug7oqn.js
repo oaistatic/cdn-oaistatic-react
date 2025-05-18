@@ -1,0 +1,2 @@
+import{j as e,M as t}from"./msupklk377u8vx8o.js";function a(){return e.jsx("div",{className:"border-token-text-quartenary text-token-text-secondary dark:border-token-border-heavy dark:text-token-text-tertiary items-center rounded-full border px-1 py-0.5 text-[8px] leading-3 font-semibold uppercase",children:e.jsx(t,{id:"mP0mrm",defaultMessage:"Beta"})})}export{a as B};
+//# sourceMappingURL=h6nvzyph08ug7oqn.js.map
