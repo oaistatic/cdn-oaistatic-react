@@ -1,0 +1,2 @@
+import{j as e,M as a}from"./lip667d8t42poxum.js";import"./l4oo5ijw01fyrjzs.js";import{c as r}from"./n9zp7vm10xoipejo.js";function m({className:s,field:t}){return e.jsxs("div",{className:r("flex w-full items-center gap-2",s),children:[t.state.meta.isTouched&&t.state.meta.errors.length?e.jsx("span",{className:"text-token-text-status-error text-xs",children:t.state.meta.errors.join(",")}):null,t.state.meta.isValidating?e.jsx(a,{id:"wham.createEnvironments.validating",defaultMessage:"Validating…"}):null]})}export{m as F};
+//# sourceMappingURL=dgaabmwb6kfq92a0.js.map

@@ -1,2 +1,0 @@
-import{f4 as s,fY as o,fZ as t,f_ as r}from"./i3bl95k8z8nuf4dv.js";import{cm as i}from"./idf4u2jy0wx0pvap.js";import{ab as a}from"./msupklk377u8vx8o.js";function E(){s?.publish(o.SET_WEB_RELEASE_PROPERTIES,{env:"prod",track:"stable",isRestrictedPreview:!1}),s?.registerHostEventListener!==void 0&&s?.registerHostEventListener(e=>{t.publish(e.eventName,e.payload)}),t.subscribe(r.WINDOW_FOCUS_CHANGED,async e=>{window.opener||(a.setFocused(e.isFocused),await i())})}export{E as initDesktop};
-//# sourceMappingURL=ijjpsge2nukqojus.js.map
