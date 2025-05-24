@@ -1,2 +1,0 @@
-import{eo as e}from"./n9zp7vm10xoipejo.js";import{C as r,j as o}from"./lip667d8t42poxum.js";import{b$ as a}from"./l4oo5ijw01fyrjzs.js";const p=e(function(){const s=r();return o.jsx(n,{loaderData:s})});function n({loaderData:t}){return o.jsx(a,{attachments:t.postWithProfile.post.attachments})}const f=()=>[{title:"ChatGPT Post Cover Image"}];export{p as default,f as meta};
-//# sourceMappingURL=e7rxibrx59pprtfd.js.map
