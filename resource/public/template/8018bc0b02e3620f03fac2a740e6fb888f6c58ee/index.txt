@@ -6,3 +6,4 @@ gizmoconv.html
 cindex.html
 c.html
 codex.html
+gizmodata.json
