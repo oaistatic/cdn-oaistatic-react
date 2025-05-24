@@ -1,0 +1,2 @@
+import{d as i,r as o}from"./n3epq09dut36rmi2.js";function d(){const s=i(),e=o.useCallback(t=>{const a=t.ctrlKey||t.metaKey,n=t.target,r=n?.isContentEditable||/^(input|textarea|select)$/i.test(n?.tagName??"");t.key!=="Enter"||!a||t.altKey||t.shiftKey||r||(t.preventDefault(),s("/codex",{state:{focusComposer:!0}}))},[s]);o.useEffect(()=>(window.addEventListener("keydown",e),()=>window.removeEventListener("keydown",e)),[e])}export{d as u};
+//# sourceMappingURL=geq0szxpp44x56uy.js.map

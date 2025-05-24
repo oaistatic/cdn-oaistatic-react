@@ -1,2 +1,0 @@
-import{fa as s,g4 as o,g5 as t,g6 as r}from"./n9zp7vm10xoipejo.js";import{cn as i}from"./l4oo5ijw01fyrjzs.js";import{a8 as a}from"./lip667d8t42poxum.js";function c(){s?.publish(o.SET_WEB_RELEASE_PROPERTIES,{env:"prod",track:"stable",isRestrictedPreview:!1}),s?.registerHostEventListener!==void 0&&s?.registerHostEventListener(e=>{t.publish(e.eventName,e.payload)}),t.subscribe(r.WINDOW_FOCUS_CHANGED,async e=>{window.opener||(a.setFocused(e.isFocused),await i())})}export{c as initDesktop};
-//# sourceMappingURL=jeippqhdslqwtkjg.js.map

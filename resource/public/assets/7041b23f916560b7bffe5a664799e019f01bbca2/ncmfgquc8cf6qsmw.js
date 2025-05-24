@@ -1,2 +1,0 @@
-import{j as e}from"./lip667d8t42poxum.js";import{c as s}from"./n9zp7vm10xoipejo.js";import{I as t}from"./l4oo5ijw01fyrjzs.js";function l(r){return e.jsxs("div",{className:"relative w-full",children:[e.jsx(t,{...r,className:s(r.className,r.error&&"border-red-500!")}),e.jsx("p",{className:"mt-1 flex items-center text-xs text-red-500",children:r.error})]})}export{l as I};
-//# sourceMappingURL=ncmfgquc8cf6qsmw.js.map
