@@ -1,0 +1,10 @@
+gptsmine.html
+gpts.html
+gizmo.html
+gptseditor.html
+gizmoconv.html
+cindex.html
+c.html
+codex.html
+library.html
+gizmodata.json

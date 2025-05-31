@@ -1,0 +1,2 @@
+import{fd as s,b as n,dd as c,de as l}from"./eb6xg52mym6rhnsh.js";import{d as i,r as u}from"./cs2gapsc2bulabhw.js";const _=s(function(){const t=i();return u.useEffect(()=>{async function o(){const r=window.location.href,e=await n.safeGet("/aip/connectors/links/oauth/callback",{parameters:{query:{full_redirect_url:r}}});if(e?.post_auth_url){const a=new URL(e.post_auth_url,location.origin);t(a.pathname+a.search+a.hash)}else t(c(l.CUSTOM_ERROR))}o()},[t]),null});export{_ as default};
+//# sourceMappingURL=m6u6gqivat258ohg.js.map
