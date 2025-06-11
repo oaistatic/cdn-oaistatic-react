@@ -1,0 +1,2 @@
+import{j as t}from"./b8ijctzpgh0s7wpx.js";import{C as a}from"./cd0ufgrxfqrshwwx.js";import{dl as m,dm as r}from"./krbmwir12ubt4od1.js";import"./citrwydz0bgriwlc.js";import"./hs2fsda156wfk7fz.js";import"./eg629yaevviy8e7x.js";import"./ku4zsoy6w4wkp690.js";import"./k1h56nx2kjoqc52m.js";import"./exvo283q5zxd2q6r.js";import"./jekpe1ukp5thtucq.js";function F(o){const e=m();if(!e)return null;switch(e){case r.ALPHA:case r.SB_1B9A6CB4:return t.jsx(a,{...o});case r.DOGFOODING:return null}}export{F as CAFeedbackModal};
+//# sourceMappingURL=kpdi7gj82u2u59dc.js.map

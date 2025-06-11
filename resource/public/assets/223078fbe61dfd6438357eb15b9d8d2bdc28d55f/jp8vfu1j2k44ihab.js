@@ -1,0 +1,2 @@
+import{j as e}from"./b8ijctzpgh0s7wpx.js";import{c as s}from"./citrwydz0bgriwlc.js";import{bJ as t}from"./krbmwir12ubt4od1.js";function l(r){return e.jsxs("div",{className:"relative w-full",children:[e.jsx(t,{...r,className:s(r.className,r.error&&"border-red-500!")}),e.jsx("p",{className:"mt-1 flex items-center text-xs text-red-500",children:r.error})]})}export{l as I};
+//# sourceMappingURL=jp8vfu1j2k44ihab.js.map

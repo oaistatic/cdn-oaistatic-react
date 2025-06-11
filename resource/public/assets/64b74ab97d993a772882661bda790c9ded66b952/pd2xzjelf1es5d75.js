@@ -1,2 +1,0 @@
-import{fe as c}from"./ccccre6vnqbb7l94.js";import{bo as s}from"./fztttvm3qzdvif1h.js";import{p as l,r}from"./ci5tkrccytan34lo.js";const m=c(function(){const[t]=l(),o=s(),e=r.useRef(!1);return r.useEffect(()=>{if(e.current)return;e.current=!0;const a=t.get("login_hint"),n=t.get("connection"),i=t.get("callback_path");o({authType:"login",...i?{callbackUrl:i}:void 0,...a||n?{additionalAuthParams:{...a?{login_hint:a}:{},...n?{connection:n}:{}}}:{}})},[o,t]),null});export{m as default};
-//# sourceMappingURL=pd2xzjelf1es5d75.js.map
