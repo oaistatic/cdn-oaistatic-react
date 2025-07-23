@@ -1,0 +1,2 @@
+import{j as e,M as d}from"./juy90og0wtbp77qa.js";import{i as l,a}from"./ijrieqdsn05t7zlp.js";function o({diffFile:s,fallback:i=null}){const t=l(s);return a(s)?e.jsx("div",{className:"-my-1 flex rounded-full bg-green-500/10 px-2 py-1 text-xs text-green-500",children:e.jsx(d,{id:"wham.fileTag.new",defaultMessage:"New"})}):t?e.jsx("div",{className:"-my-1 flex rounded-full bg-red-500/10 px-2 py-1 text-xs text-red-500",children:e.jsx(d,{id:"wham.fileTag.deleted",defaultMessage:"Deleted"})}):i}export{o as F};
+//# sourceMappingURL=k7dnwni45dct4rn4.js.map
