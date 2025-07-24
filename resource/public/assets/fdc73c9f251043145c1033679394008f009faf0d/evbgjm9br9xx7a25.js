@@ -1,2 +1,0 @@
-import{kb as n}from"./or7jf62i5kvok6pm.js";function c(a){const r=n.createRootNode("y-root"),o=[r];let t=r.id;for(const s of a){const e=n.createNode(s,t);o.push(e),t=e.id}const d=o.reduce((s,e)=>(s[e.id]={id:e.id,parent:e.parentId,message:e.message,children:[]},s),{});return{allConversationMessages:o,threadResponse:{moderation_results:[],conversation_id:"",current_node:t,title:null,mapping:d}}}export{c};
-//# sourceMappingURL=evbgjm9br9xx7a25.js.map

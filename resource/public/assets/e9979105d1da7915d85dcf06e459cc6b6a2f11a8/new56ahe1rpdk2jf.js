@@ -1,0 +1,2 @@
+import{j as i}from"./juy90og0wtbp77qa.js";import r from"./e1cydpv9q386zuhg.js";import"./dc2xxjkicf2pz0mj.js";const l=({autoAnimatingCarousel:t})=>i.jsx("div",{className:"@container w-full py-10",children:t.map((e,s)=>i.jsx("div",{className:"mb-3 w-full",children:i.jsx(r,{direction:e.direction,items:e.items,carouselSpeed:e.carouselSpeed})},s))});export{l as default};
+//# sourceMappingURL=new56ahe1rpdk2jf.js.map

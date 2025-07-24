@@ -1,0 +1,2 @@
+import{eN as s,kh as o,ki as t,kj as i}from"./dc2xxjkicf2pz0mj.js";import{aY as r}from"./ckp56qklot786ulr.js";import{ag as a}from"./juy90og0wtbp77qa.js";function c(){s?.publish(o.SET_WEB_RELEASE_PROPERTIES,{env:"prod",track:"stable",isRestrictedPreview:!1}),s?.registerHostEventListener!==void 0&&s?.registerHostEventListener(e=>{t.publish(e.eventName,e.payload)}),t.subscribe(i.WINDOW_FOCUS_CHANGED,async e=>{window.opener||(a.setFocused(e.isFocused),await r())})}export{c as initDesktop};
+//# sourceMappingURL=hrqp5b1loctx63h3.js.map
