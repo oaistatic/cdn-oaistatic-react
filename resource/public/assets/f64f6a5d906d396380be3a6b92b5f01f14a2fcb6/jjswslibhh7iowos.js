@@ -1,0 +1,2 @@
+import{kw as i}from"./g670b8vtkhx0yc6d.js";import{N as n,j as s}from"./gg0tb34p9fzo1omt.js";import{g as p,a as g,P as m}from"./ab7jq9n03gacrw3w.js";import"./forbprkns1cohsbl.js";import"./id2b6tfpkmbffcve.js";const c=({data:t})=>{const a=t;return a?.pageData?[...p(a?.pageData),...g(a?.origin,"overview")]:[{title:"ChatGPT Overview"}]},w=i(function(){const{pageData:a,footerData:e,leftNavData:o,locale:r}=n();return s.jsx(m,{page:a,footer:e,leftNav:o,locale:r})});export{w as default,c as meta};
+//# sourceMappingURL=jjswslibhh7iowos.js.map

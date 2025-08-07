@@ -1,0 +1,2 @@
+import{j as o}from"./gg0tb34p9fzo1omt.js";import{bU as t}from"./g670b8vtkhx0yc6d.js";const c="_componentGroup_144ld_1",n={componentGroup:c},l=({children:s,layout:r})=>o.jsx("section",{children:o.jsx("div",{className:`component-group grid w-full grid-cols-12 ${n.componentGroup}`,children:o.jsx("div",{className:t("col-span-10 col-start-2 grid grid-cols-1 items-stretch gap-5 md:col-span-12 md:col-start-1",{"md:grid-cols-2":r==="2-column-grid"}),children:s})})});export{l as default};
+//# sourceMappingURL=hkm9pyvhusavvkrq.js.map

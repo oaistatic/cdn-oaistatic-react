@@ -1,0 +1,2 @@
+import{j as e}from"./gg0tb34p9fzo1omt.js";import{al as t,am as a,an as s}from"./forbprkns1cohsbl.js";const i=({group:r})=>e.jsxs("div",{className:"relative me-3",children:[e.jsx(t,{IconComponent:a,className:"bg-token-bg-tertiary",rounded:!0}),r.is_scim_managed&&e.jsx("div",{className:"bg-token-bg-tertiary absolute -end-1 -bottom-1 rounded-full border-2 border-white p-0.25",children:e.jsx(s,{width:10,height:10})})]});export{i as G};
+//# sourceMappingURL=c3br35oylhnmidew.js.map

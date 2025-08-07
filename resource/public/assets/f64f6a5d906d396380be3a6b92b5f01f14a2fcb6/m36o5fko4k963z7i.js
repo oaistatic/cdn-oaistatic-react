@@ -1,0 +1,2 @@
+import{g9 as s,md as o,me as t,mf as r}from"./g670b8vtkhx0yc6d.js";import{ar as i}from"./forbprkns1cohsbl.js";import{ah as a}from"./gg0tb34p9fzo1omt.js";function c(){s?.publish(o.SET_WEB_RELEASE_PROPERTIES,{env:"prod",track:"stable",isRestrictedPreview:!1}),s?.registerHostEventListener!==void 0&&s?.registerHostEventListener(e=>{t.publish(e.eventName,e.payload)}),t.subscribe(r.WINDOW_FOCUS_CHANGED,async e=>{window.opener||(a.setFocused(e.isFocused),await i())})}export{c as initDesktop};
+//# sourceMappingURL=m36o5fko4k963z7i.js.map

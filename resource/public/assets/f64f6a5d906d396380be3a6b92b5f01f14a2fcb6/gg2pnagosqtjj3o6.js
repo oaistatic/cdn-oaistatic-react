@@ -1,0 +1,2 @@
+import{j as e,L as a}from"./gg0tb34p9fzo1omt.js";import{bU as r,el as i}from"./g670b8vtkhx0yc6d.js";function c({children:s,className:t}){return e.jsx("div",{className:r("bg-token-bg-primary z-10 flex items-center gap-0.5 py-4 text-sm",t),children:s})}function x({label:s,url:t,className:n}){return e.jsx("div",{className:r("flex items-center gap-0.5",n),children:t?e.jsx(a,{to:t,children:s}):s},s)}function p(){return e.jsx(i,{className:"icon"})}export{x as I,c as R,p as S};
+//# sourceMappingURL=gg2pnagosqtjj3o6.js.map

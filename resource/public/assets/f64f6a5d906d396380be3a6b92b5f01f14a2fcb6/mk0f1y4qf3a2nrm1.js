@@ -1,0 +1,2 @@
+import{kw as n}from"./g670b8vtkhx0yc6d.js";import{N as s,j as i}from"./gg0tb34p9fzo1omt.js";import{g as l,a as p,P as g}from"./ab7jq9n03gacrw3w.js";import"./forbprkns1cohsbl.js";import"./id2b6tfpkmbffcve.js";const c=({data:t})=>{const a=t;return a?.pageData?[...l(a?.pageData),...p(a?.origin,"download")]:[{title:"Download ChatGPT"}]},w=n(function(){const{pageData:a,footerData:o,leftNavData:e,locale:r}=s();return i.jsx(g,{page:a,footer:o,leftNav:e,locale:r})});export{w as default,c as meta};
+//# sourceMappingURL=mk0f1y4qf3a2nrm1.js.map

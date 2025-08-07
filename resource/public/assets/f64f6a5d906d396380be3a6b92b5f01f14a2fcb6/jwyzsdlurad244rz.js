@@ -1,0 +1,2 @@
+import{j as e,M as s,e as t}from"./gg0tb34p9fzo1omt.js";function r(){return e.jsx("div",{className:"flex items-center",children:e.jsx("div",{className:"flex rounded-md bg-orange-300 px-1 text-center text-white dark:bg-orange-800",children:e.jsx("span",{className:"text-[0.5em] leading-4 font-bold",children:e.jsx(s,{...a.scimIndicatorText})})})})}const a=t({scimIndicatorText:{id:"workspaceIdentity.directorySyncResourceTagTitle",defaultMessage:"SCIM"}});export{r as DirectorySyncResourceManagedIndication};
+//# sourceMappingURL=jwyzsdlurad244rz.js.map

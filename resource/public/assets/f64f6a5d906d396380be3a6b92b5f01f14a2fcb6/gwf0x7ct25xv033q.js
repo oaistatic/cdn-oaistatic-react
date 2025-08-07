@@ -1,0 +1,2 @@
+import{kw as o,d as r,P as n,b0 as c}from"./g670b8vtkhx0yc6d.js";import{ai as i}from"./forbprkns1cohsbl.js";import{l as u,r as s}from"./gg0tb34p9fzo1omt.js";const g=o(function(){const a=r(),t=u();return s.useEffect(()=>{n.logEvent("Account Pay: Interstitial Page Impression - v2")},[a]),s.useEffect(()=>{const e=new URLSearchParams(t.search);c(a,{authType:"signup",callbackUrl:`/create-workspace${t.search}`,additionalAuthParams:{signup_source:"business",promo:e.get(i)??""}})},[a,t.search]),null});export{g as default};
+//# sourceMappingURL=gwf0x7ct25xv033q.js.map

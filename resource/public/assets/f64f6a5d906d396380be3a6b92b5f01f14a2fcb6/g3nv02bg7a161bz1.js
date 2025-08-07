@@ -1,0 +1,2 @@
+import{kw as c,d as r,b0 as l}from"./g670b8vtkhx0yc6d.js";import{o as u,r as i}from"./gg0tb34p9fzo1omt.js";const m=c(function(){const[t]=u(),o=r(),e=i.useRef(!1);return i.useEffect(()=>{if(e.current)return;e.current=!0;const n=t.get("login_hint"),a=t.get("connection"),s=t.get("callback_path");l(o,{authType:"login",...s?{callbackUrl:s}:void 0,...n||a?{additionalAuthParams:{...n?{login_hint:n}:{},...a?{connection:a}:{}}}:{}})},[o,t]),null});export{m as default};
+//# sourceMappingURL=g3nv02bg7a161bz1.js.map
