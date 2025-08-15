@@ -1,0 +1,2 @@
+import{aR as s,aS as u,aT as o,aU as m}from"./ivbsxyeeopn30y8l.js";import{u as c}from"./n97h6so7iblif4c5.js";function A(t){const a=s(e=>u.getAutomation(t,e)),{data:r,error:n}=c({queryKey:o.getAutomationQueryKey(t),queryFn:async()=>{const e=await o.getAutomation(t);return m.setAutomation(t,e),e},enabled:t.length>0});return{automation:a||r,error:n}}export{A as u};
+//# sourceMappingURL=jx2hj56jr1whq2nv.js.map

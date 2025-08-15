@@ -1,0 +1,2 @@
+import{l9 as e,a,aE as n,P as r,nc as u}from"./cim4usely8ixso70.js";import{j as o,r as c,f as g}from"./n97h6so7iblif4c5.js";function i(){const t=a(),s=n(t,"590557768");return c.useEffect(()=>{r.logEventWithStatsig("404 Page Shown","chatgpt_404_page_shown")},[]),g(),o.jsx(u,{showReturnHome:s.get("should_show_return_home_btn",!1)})}const p=e(function(){return o.jsx(i,{})});export{p as default};
+//# sourceMappingURL=f7a3gtfkmdhyn6ao.js.map

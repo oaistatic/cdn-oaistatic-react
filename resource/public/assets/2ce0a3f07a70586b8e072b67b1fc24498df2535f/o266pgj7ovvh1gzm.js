@@ -1,0 +1,2 @@
+import{R as r,j as a}from"./n97h6so7iblif4c5.js";import{g as m,r as x}from"./njuexwvu1hhsyptl.js";import{d as c}from"./cim4usely8ixso70.js";const n=r.memo(({text:e,className:t="",alignment:s="left"})=>{const o=m();return a.jsx("div",{className:c("prose max-w-8xl mx-auto",s==="center"&&"text-center",t),children:x.documentToReactComponents(e,o)})});n.displayName="Text";export{n as default};
+//# sourceMappingURL=o266pgj7ovvh1gzm.js.map

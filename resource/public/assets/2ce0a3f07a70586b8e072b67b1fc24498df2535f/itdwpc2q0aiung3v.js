@@ -1,0 +1,2 @@
+const i=["http:","https:","mailto:","tel:"];function n(r){const o=new URL(window.location.origin??window.location.origin),t=new URL(r,o);if(t.href==="chatgpt://oauth_complete")return t;if(t.origin!==o.origin)throw new Error("Invalid redirect URL: would redirect off site.");if(!i.some(e=>e===t.protocol))throw new Error("Invalid redirect URL: unsafe protocol.");return t}export{n as a};
+//# sourceMappingURL=itdwpc2q0aiung3v.js.map

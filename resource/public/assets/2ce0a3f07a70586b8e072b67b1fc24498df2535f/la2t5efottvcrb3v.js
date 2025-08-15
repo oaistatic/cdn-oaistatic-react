@@ -1,0 +1,2 @@
+import{j as s}from"./n97h6so7iblif4c5.js";import i from"./lctq35y4ab0o88k7.js";import"./efjc179dvna7bjqg.js";import"./cim4usely8ixso70.js";import"./ivbsxyeeopn30y8l.js";import"./lbil4jq546hervyf.js";import"./kvlflg3xlp6vnbym.js";const x=({media:t})=>s.jsx("div",{className:"w-full",children:t.map(r=>s.jsx("div",{children:s.jsx(i,{...r})},r.assetUrl||r.asset?.file.url))});export{x as default};
+//# sourceMappingURL=la2t5efottvcrb3v.js.map

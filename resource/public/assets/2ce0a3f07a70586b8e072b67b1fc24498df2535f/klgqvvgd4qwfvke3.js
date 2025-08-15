@@ -1,0 +1,2 @@
+import{r as o,j as e}from"./n97h6so7iblif4c5.js";import{d as n}from"./cim4usely8ixso70.js";const d=o.forwardRef(function(r,a){const{className:s,...t}=r;return e.jsxs("div",{className:"grid",children:[e.jsx("textarea",{className:n("col-start-1 col-end-2 row-start-1 row-end-2 w-full resize-none overflow-hidden p-0",s),ref:a,...t}),e.jsxs("span",{className:"invisible col-start-1 col-end-2 row-start-1 row-end-2 p-0 break-all whitespace-pre-wrap",children:[r.value," "]})]})});export{d as E};
+//# sourceMappingURL=klgqvvgd4qwfvke3.js.map
