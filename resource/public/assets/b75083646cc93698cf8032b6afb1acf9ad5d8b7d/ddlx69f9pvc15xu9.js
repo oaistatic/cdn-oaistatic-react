@@ -1,0 +1,2 @@
+import{lI as s,cU as a}from"./hml6mmd5fyx85si7.js";import{K as n,j as e}from"./lu2xqwqmjc95q6j6.js";import{aM as r}from"./rseqzngxzbdt1oxg.js";const c=s(function(){const t=n();return e.jsx(i,{loaderData:t})});function i({loaderData:o}){const t=a();return e.jsx(r,{attachments:o.postWithProfile.post.attachments,clientThreadId:t,className:"h-full"})}const f=()=>[{title:"ChatGPT Post Cover Image"},{name:"robots",content:"noindex,nofollow"}];export{c as default,f as meta};
+//# sourceMappingURL=ddlx69f9pvc15xu9.js.map

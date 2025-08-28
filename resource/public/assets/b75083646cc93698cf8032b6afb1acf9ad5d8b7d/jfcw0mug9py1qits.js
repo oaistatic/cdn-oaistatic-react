@@ -1,0 +1,2 @@
+const n={"chatgpt.free":{eur:0,gbp:0,inr:0,usd:0},"chatgpt.plus":{eur:2300,gbp:2e3,inr:199900,usd:2e3},"chatgpt.pro":{eur:22900,gbp:2e4,inr:199e4,usd:2e4},"chatgpt.team.monthly":{eur:3400,gbp:3e3,inr:259900,usd:3e3},"chatgpt.team.yearly":{eur:2900,gbp:2500,inr:209900,usd:2500}},s={prices:n};function o(r){return r?Array.isArray(r)?r:[r]:[]}const p=r=>r?.startsWith("//")?`https:${r}`:r,u=(r,t)=>{const e=t.toLowerCase();return s.prices[r][e]};export{p as a,u as g,o as n};
+//# sourceMappingURL=jfcw0mug9py1qits.js.map

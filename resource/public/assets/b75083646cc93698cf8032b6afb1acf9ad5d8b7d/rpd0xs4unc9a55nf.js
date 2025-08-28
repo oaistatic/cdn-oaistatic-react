@@ -1,0 +1,2 @@
+import{j as a}from"./lu2xqwqmjc95q6j6.js";import{B as n}from"./hzc5d1juvyopinzt.js";import{r as s,C as i}from"./o572axebpu1po9aj.js";import"./hml6mmd5fyx85si7.js";import"./fnnx0iybebnoqw84.js";function C({direction:r="Left",items:e,carouselSpeed:m=36,threshold:t=.8}){return a.jsx(n,{direction:r,carouselSpeed:m,itemWrapperClassName:"max-w-[286px] px-2",threshold:t,items:e.map(o=>s(o,i)??null)})}export{C as default};
+//# sourceMappingURL=rpd0xs4unc9a55nf.js.map

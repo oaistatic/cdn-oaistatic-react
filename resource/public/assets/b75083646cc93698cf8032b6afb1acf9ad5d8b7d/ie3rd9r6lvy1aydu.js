@@ -1,0 +1,2 @@
+import{j as e}from"./lu2xqwqmjc95q6j6.js";function a({title:s,description:t}){return e.jsxs("div",{className:"flex flex-col gap-2",children:[e.jsx("div",{className:"text-token-text-primary w-full justify-start text-2xl leading-7 font-medium",children:s}),t&&e.jsx("div",{className:"text-token-text-tertiary w-full justify-start text-sm",children:t}),e.jsx("div",{className:"pt-3",children:e.jsx("div",{className:"border-token-border-default h-[1px] border-t"})})]})}export{a as C};
+//# sourceMappingURL=ie3rd9r6lvy1aydu.js.map

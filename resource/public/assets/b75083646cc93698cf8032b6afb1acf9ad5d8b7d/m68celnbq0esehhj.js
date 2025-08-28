@@ -1,0 +1,2 @@
+import{R as s,jy as o,jz as c,V as n}from"./hml6mmd5fyx85si7.js";class u{static async getCheckoutLink(e,t){return s.safePost("/payments/checkout",{requestBody:e,additionalHeaders:o(null,null,null,t?.skipSentinelCheckout?void 0:await c("chatgpt_checkout").catch(a=>{n.addError(a)}))})}static async fetchExistingCheckoutSession(e,t){return await s.safeGet("/payments/checkout/{processor_entity}/{checkout_session_id}",{parameters:{path:{processor_entity:e,checkout_session_id:t}}})}}export{u as C};
+//# sourceMappingURL=m68celnbq0esehhj.js.map
