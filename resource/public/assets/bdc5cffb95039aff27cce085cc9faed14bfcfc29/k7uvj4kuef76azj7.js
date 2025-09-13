@@ -1,0 +1,2 @@
+import{r as e,j as r}from"./cs7toih8jegb7teq.js";import{d as u}from"./q137kjy19x38vhq0.js";const a={effectiveLocale:u},o=e.createContext(a);function l({children:t,effectiveLocale:n}){return r.jsx(o.Provider,{value:{effectiveLocale:n},children:t})}function C(){const t=e.useContext(o);if(t==null)throw new Error("useContentfulPageContext hook must be used within ContentfulPageProvider");return t}export{l as C,C as u};
+//# sourceMappingURL=k7uvj4kuef76azj7.js.map

@@ -1,0 +1,2 @@
+import{j as s}from"./cs7toih8jegb7teq.js";import{B as i}from"./k9m4ytbagsghiwy4.js";import"./gfoa9pl75c877lkp.js";import"./hnw079jsdm76umup.js";import"./dmck639k4dv7claj.js";const d=({title:t,prompt:r,promptQuery:m,attachmentFileNames:o,footnote:a,clickAction:e})=>s.jsx(i,{title:t??"",prompt:r,promptQuery:m,attachments:o?.map(p=>({fileName:p})),footnote:a,clickAction:e});export{d as default};
+//# sourceMappingURL=ne06rnzqlwkdo90s.js.map

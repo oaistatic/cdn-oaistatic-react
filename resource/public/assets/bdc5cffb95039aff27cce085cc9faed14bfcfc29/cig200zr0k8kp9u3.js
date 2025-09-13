@@ -1,0 +1,2 @@
+import{j as s}from"./cs7toih8jegb7teq.js";import i from"./cy077av0cdgzlr3q.js";import"./dmck639k4dv7claj.js";import"./q137kjy19x38vhq0.js";import"./hnw079jsdm76umup.js";const d=({media:a})=>s.jsx("div",{className:"w-full",children:s.jsx("div",{className:"max-w-8xl mx-auto grid grid-cols-12",children:a.map(r=>s.jsx("div",{className:"col-span-10 col-start-2",children:s.jsx(i,{...r})},r.assetUrl||r.asset?.file.url))})});export{d as default};
+//# sourceMappingURL=cig200zr0k8kp9u3.js.map

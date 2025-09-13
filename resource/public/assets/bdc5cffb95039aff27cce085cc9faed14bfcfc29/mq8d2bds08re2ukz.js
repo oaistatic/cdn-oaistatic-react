@@ -1,0 +1,2 @@
+import{j as r}from"./cs7toih8jegb7teq.js";import{e as m,c2 as p}from"./dmck639k4dv7claj.js";import{r as x,C as c}from"./ez9eaatx2b3un5m1.js";const h=({condition:i,controlComponents:t,treatmentVariants:n})=>{const a=m(),e=p(a,i.hashedName).get("variant",0);let o=t;return e>0&&e-1<n.length&&(o=n[e-1]?.components??t),r.jsx(r.Fragment,{children:o.map(s=>x(s,c))})};export{h as default};
+//# sourceMappingURL=mq8d2bds08re2ukz.js.map

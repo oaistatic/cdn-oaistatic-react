@@ -1,0 +1,2 @@
+import{P as e}from"./dmck639k4dv7claj.js";const i={logPageView(t={}){e.logEventWithStatsig("Contentful: Page Viewed","chatgpt_web_contentful_page_viewed",{slug:t.slug}),t.slug},logClick(t={}){e.logEventWithStatsig("Contentful: Link Button Clicked","chatgpt_web_contentful_link_button_clicked",{analytics_identifier:t.analytics_identifier}),t.analytics_identifier}};export{i as C};
+//# sourceMappingURL=laa80mg03a6xrvla.js.map

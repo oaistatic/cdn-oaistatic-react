@@ -1,0 +1,3 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/l5vqdquryti3pdde.js","assets/dmck639k4dv7claj.js","assets/cs7toih8jegb7teq.js","assets/root-mdlgku96.css","assets/cm813h9bptrniota.js","assets/hnw079jsdm76umup.js","assets/conversation-small-b5ztx8w5.css","assets/lablqthzph6rqii3.js","assets/owiiott81wvonpc1.js","assets/mb7zz61l53knyj1k.js","assets/gfoa9pl75c877lkp.js"])))=>i.map(i=>d[i]);
+import{aw as t,ax as a,lU as r}from"./dmck639k4dv7claj.js";import{j as o}from"./cs7toih8jegb7teq.js";const n=t(()=>a(()=>import("./l5vqdquryti3pdde.js").then(e=>e.p),__vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10])).then(e=>e.PermalinkPage)),m=r(function(){return o.jsx(n,{})});export{m as default};
+//# sourceMappingURL=nave5j3hmzthlaql.js.map

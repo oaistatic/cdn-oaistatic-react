@@ -1,0 +1,2 @@
+import{j as s}from"./cs7toih8jegb7teq.js";import e from"./cy077av0cdgzlr3q.js";import"./dmck639k4dv7claj.js";import"./q137kjy19x38vhq0.js";import"./hnw079jsdm76umup.js";const x=({media:a})=>s.jsx("div",{className:"w-full",children:s.jsx("div",{className:"max-w-8xl mx-auto",children:a.map(r=>s.jsx("div",{children:s.jsx(e,{...r})},r.assetUrl||r.asset?.file.url))})});export{x as default};
+//# sourceMappingURL=gkn9imm4qwm5vmxw.js.map
