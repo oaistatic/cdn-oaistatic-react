@@ -1,0 +1,2 @@
+import{r as e,j as r}from"./m60bpb0x3x7rg8fj.js";import{d as u}from"./bado26kntlxymn9z.js";const a={effectiveLocale:u},o=e.createContext(a);function l({children:t,effectiveLocale:n}){return r.jsx(o.Provider,{value:{effectiveLocale:n},children:t})}function C(){const t=e.useContext(o);if(t==null)throw new Error("useContentfulPageContext hook must be used within ContentfulPageProvider");return t}export{l as C,C as u};
+//# sourceMappingURL=jv0ept72ebu678ob.js.map

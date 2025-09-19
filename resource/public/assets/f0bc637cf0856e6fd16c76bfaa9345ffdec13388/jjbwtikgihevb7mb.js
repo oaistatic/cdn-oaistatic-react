@@ -1,0 +1,2 @@
+import{j as i}from"./m60bpb0x3x7rg8fj.js";import{e as m,bb as p,p as o}from"./lgw4q0e8zlqqfgug.js";import{r as x,C as g}from"./o0xv5o3flr0o6v0h.js";const l=({condition:e,controlComponents:a,treatmentComponents:n})=>{const r=m();let t=[];return e.__typename==="statsigExperiment"?t=p(r,e.hashedName).get("variant",0)>0?n:a:e.__typename==="statsigGate"&&(t=o(r,e.hashedName)?n:a),i.jsx(i.Fragment,{children:t.map(s=>x(s,g))})};export{l as default};
+//# sourceMappingURL=jjbwtikgihevb7mb.js.map

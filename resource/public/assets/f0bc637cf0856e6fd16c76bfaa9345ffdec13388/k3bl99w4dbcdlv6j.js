@@ -1,0 +1,2 @@
+import{j as e,M as a,d as n}from"./m60bpb0x3x7rg8fj.js";import{M as i}from"./jk1xz4ir2z9wt21v.js";import{e as t,bH as r,dr as c,z as d}from"./lgw4q0e8zlqqfgug.js";function k({className:s}){const o=t();return e.jsx(r,{className:d("underline underline-offset-2",s),onClick:()=>c(o,i),children:e.jsx(a,{...M.cookies})})}const M=n({cookies:{id:"Footer.cookies",defaultMessage:"Manage cookies"}});export{k as M};
+//# sourceMappingURL=k3bl99w4dbcdlv6j.js.map

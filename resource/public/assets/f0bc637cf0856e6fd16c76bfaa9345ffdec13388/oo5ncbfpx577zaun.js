@@ -1,0 +1,2 @@
+import{bc as e}from"./ggjzadbnd3k1vu0k.js";import{kp as o}from"./lgw4q0e8zlqqfgug.js";var a={};function c({amountMinorUnits:t,currency:s}){const n=t/100;return new Intl.NumberFormat(void 0,{style:"currency",currency:s}).format(n)}var r=(t=>(t.SORA="oiw216z",t.OPERATOR="vza493q",t.STUDENTS="students",t))(r||{});const f={oiw216z:`${a.VITE_OIW216Z_SERVICE_URL??"https://sora.com"}/subscription`,vza493q:o,students:e(!0)};function R(t){return typeof t!="string"?!1:Object.values(r).includes(t)}export{f as C,r as a,c as f,R as i};
+//# sourceMappingURL=oo5ncbfpx577zaun.js.map

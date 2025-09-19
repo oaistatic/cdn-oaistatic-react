@@ -1,0 +1,2 @@
+import{j as s}from"./m60bpb0x3x7rg8fj.js";import i from"./kjbixc3mwnd4aum0.js";import"./lgw4q0e8zlqqfgug.js";import"./bado26kntlxymn9z.js";import"./ggjzadbnd3k1vu0k.js";import"./fnje4v6gzdtvboh3.js";const c=({media:a})=>s.jsx("div",{className:"w-full",children:s.jsx("div",{className:"max-w-8xl mx-auto grid grid-cols-12",children:a.map(r=>s.jsx("div",{className:"col-span-10 col-start-2",children:s.jsx(i,{...r})},r.assetUrl||r.asset?.file.url))})});export{c as default};
+//# sourceMappingURL=kid8qkal9r1bm0h0.js.map

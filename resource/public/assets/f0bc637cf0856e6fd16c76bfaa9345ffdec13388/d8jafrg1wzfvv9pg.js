@@ -1,0 +1,2 @@
+import{j as r}from"./m60bpb0x3x7rg8fj.js";import e from"./kjbixc3mwnd4aum0.js";import"./lgw4q0e8zlqqfgug.js";import"./bado26kntlxymn9z.js";import"./ggjzadbnd3k1vu0k.js";import"./fnje4v6gzdtvboh3.js";const d=({media:a})=>r.jsx("div",{className:"w-full",children:r.jsx("div",{className:"max-w-8xl mx-auto",children:a.map(s=>r.jsx("div",{children:r.jsx(e,{...s})},s.assetUrl||s.asset?.file.url))})});export{d as default};
+//# sourceMappingURL=d8jafrg1wzfvv9pg.js.map
