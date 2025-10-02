@@ -1,0 +1,2 @@
+import{c as i,j as m}from"./jj85rqzpbnvv3emr.js";import{e as c}from"./lef5ym39glv4981l.js";function p(o){"use forget";const e=i.c(6),{children:a,className:l,ariaLabelledby:r}=o;let s;e[0]!==l?(s=c("mx-auto mt-20 grid w-full max-w-screen-2xl grid-cols-12 gap-6 px-4 sm:mt-30 sm:px-8",l),e[0]=l,e[1]=s):s=e[1];let t;return e[2]!==r||e[3]!==a||e[4]!==s?(t=m.jsx("section",{className:s,"aria-labelledby":r,children:a}),e[2]=r,e[3]=a,e[4]=s,e[5]=t):t=e[5],t}export{p as F};
+//# sourceMappingURL=l9oroumybueznmgh.js.map

@@ -1,0 +1,2 @@
+import{j as r}from"./jj85rqzpbnvv3emr.js";import{i as a,q as x}from"./lef5ym39glv4981l.js";import{r as c,C as d}from"./jaugc6xrrkz8evv0.js";const l=({condition:m,controlComponents:n,treatmentVariants:o})=>{var i;const p=a(),t=x(p,m.hashedName).get("variant",0);let s=n;if(t>0&&t-1<o.length){const e=o[t-1];s=(i=e==null?void 0:e.components)!=null?i:n}return r.jsx(r.Fragment,{children:s.map(e=>c(e,d))})};export{l as default};
+//# sourceMappingURL=idocfr4c0bec777o.js.map

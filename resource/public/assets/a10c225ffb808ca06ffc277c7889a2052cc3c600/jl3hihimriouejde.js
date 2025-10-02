@@ -1,0 +1,2 @@
+import{G as o,a6 as a,j as n}from"./jj85rqzpbnvv3emr.js";import{bm as r}from"./mclphevd122040jw.js";import{gk as s}from"./lef5ym39glv4981l.js";const c=o(function(){const{attachment:t}=a(),e=s();return n.jsx(r,{attachments:[t],clientThreadId:e,className:"h-full"})}),f=()=>[{title:"ChatGPT Conversation Cover Image"},{name:"robots",content:"noindex,nofollow"}];export{c as default,f as meta};
+//# sourceMappingURL=jl3hihimriouejde.js.map

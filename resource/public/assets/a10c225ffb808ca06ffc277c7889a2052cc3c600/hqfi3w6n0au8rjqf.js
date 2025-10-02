@@ -1,0 +1,2 @@
+import{j as n}from"./jj85rqzpbnvv3emr.js";import{e$ as o,oa as r}from"./lef5ym39glv4981l.js";import{C as t}from"./ng0sx063g0r0whhb.js";const d=({messages:s,threadId:a})=>{const e=o(s);return e?n.jsx(t,{turnIndex:0,clientThreadId:a,groupedMessagesToRender:r([],e),allGroupedMessages:r([],e),allMessages:s,isUserTurn:!1,isFinalUserTurn:!1,isFinalAssistantTurn:!1,isCompletionRequestInProgress:!1,isFeedbackEnabled:!1,isFinalTurn:!1,hasActiveRequest:!1,onRequestCompletion:()=>{},renderingView:"share-modal"}):null};export{d as R};
+//# sourceMappingURL=hqfi3w6n0au8rjqf.js.map
