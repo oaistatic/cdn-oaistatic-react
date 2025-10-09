@@ -21,12 +21,11 @@
         # Or serve a PHP site through php-fpm:
         # php_fastcgi localhost:9000
 
-        # 允许跨域 - 完整配置
+         # 允许跨域
+        header Access-Control-Allow-Methods "POST, GET, OPTIONS"
+        header Access-Control-Allow-Headers "*"
         header Access-Control-Allow-Origin "*"
-        header Access-Control-Allow-Methods "GET, POST, PUT, DELETE, OPTIONS, HEAD, PATCH"
-        header Access-Control-Allow-Headers "Accept, Accept-Language, Content-Language, Content-Type, Authorization, X-Requested-With, Origin, Cache-Control, Pragma, Date"
-        header Access-Control-Allow-Credentials "false"
-        header Access-Control-Max-Age "86400"
+        header Access-Control-Allow-Credentials "true"
      
 }
 
