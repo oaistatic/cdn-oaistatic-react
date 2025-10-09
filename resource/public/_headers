@@ -1,2 +1,6 @@
 /*
   Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS, HEAD, PATCH
+  Access-Control-Allow-Headers: Accept, Accept-Language, Content-Language, Content-Type, Authorization, X-Requested-With, Origin, Cache-Control, Pragma, Date
+  Access-Control-Allow-Credentials: false
+  Access-Control-Max-Age: 86400
