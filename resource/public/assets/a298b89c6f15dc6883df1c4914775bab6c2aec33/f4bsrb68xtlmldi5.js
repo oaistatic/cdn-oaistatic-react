@@ -1,0 +1,2 @@
+import{j as e}from"./n75kuy1cx6f5mogg.js";import{gi as r,gj as l}from"./ny10lj7zpuz89fvf.js";const i=["pptx","xlsx"],o=n=>{const s=i,t=n.split(".").pop();return!t||!s.includes(t)?null:t},c=n=>!!o(n),u={pptx:l,xlsx:r},a=({fileName:n})=>{if(!n)return null;const s=o(n),t=s?u[s]:null;return t?e.jsx(t,{className:"m-0 size-5"}):null};export{a as F,o as g,c as i};
+//# sourceMappingURL=f4bsrb68xtlmldi5.js.map

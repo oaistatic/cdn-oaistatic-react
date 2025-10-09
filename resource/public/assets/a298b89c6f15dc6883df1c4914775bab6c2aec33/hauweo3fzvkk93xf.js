@@ -1,0 +1,2 @@
+import{c as i,j as n}from"./n75kuy1cx6f5mogg.js";import{C as l}from"./ffevebtf25qr5r2j.js";import{e as m}from"./ewse8exzafeu10ji.js";function u(c){"use forget";const e=i.c(6),{children:o,className:a,ariaLabelledby:r}=c;let s;e[0]!==a?(s=m("max-w-screen-2xl",a),e[0]=a,e[1]=s):s=e[1];let t;return e[2]!==r||e[3]!==o||e[4]!==s?(t=n.jsx(l,{className:s,spacingAbove:"spacious",ariaLabelledby:r,children:o}),e[2]=r,e[3]=o,e[4]=s,e[5]=t):t=e[5],t}export{u as F};
+//# sourceMappingURL=hauweo3fzvkk93xf.js.map

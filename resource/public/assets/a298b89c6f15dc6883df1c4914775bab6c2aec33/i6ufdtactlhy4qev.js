@@ -1,0 +1,3 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/jtxj1xvdu5i7mvdh.js","assets/ny10lj7zpuz89fvf.js","assets/ewse8exzafeu10ji.js","assets/n75kuy1cx6f5mogg.js","assets/root-l2v84m1w.css","assets/conversation-small-hotcas67.css"])))=>i.map(i=>d[i]);
+import{ek as o,oY as i}from"./ewse8exzafeu10ji.js";import{cc as a}from"./ny10lj7zpuz89fvf.js";import"./n75kuy1cx6f5mogg.js";async function r(){const t=await o(()=>import("./jtxj1xvdu5i7mvdh.js"),__vite__mapDeps([0,1,2,3,4,5]));await t.initHostConnection(),i(t),setTimeout(()=>a(),0)}export{r as initHost};
+//# sourceMappingURL=i6ufdtactlhy4qev.js.map

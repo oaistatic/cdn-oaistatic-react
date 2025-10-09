@@ -1,0 +1,2 @@
+import{j as e,M as t,D as s}from"./n75kuy1cx6f5mogg.js";import{du as n}from"./ewse8exzafeu10ji.js";function a(){return e.jsxs("div",{className:"flex h-full flex-col items-center justify-center",children:[e.jsx("p",{className:"px-8 text-center text-lg text-balance",children:e.jsx(t,{id:"xsOHYQ",defaultMessage:"Continue in the ChatGPT app by opening this link on your phone."})}),e.jsx(n,{className:"mt-6 h-8 w-8"})]})}const p=s(function(){return e.jsx(a,{})});export{p as default};
+//# sourceMappingURL=k8u87lt1fw1tto2i.js.map

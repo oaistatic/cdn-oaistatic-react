@@ -1,0 +1,2 @@
+var I=(N=>(N.LOG="log",N.RUN_START="run_start",N.ENVIRONMENT_STATUS="environment_status",N.OUTPUT="output",N.ERROR="error",N.RUN_COMPLETE="run_complete",N))(I||{});const A=["python","javascript","typescript","html","react"];function _(N){return A.includes(N)}var G=(N=>(N[N.INITIALIZING=0]="INITIALIZING",N[N.INSTALLING_PACKAGES=1]="INSTALLING_PACKAGES",N[N.RUNNING_CODE=2]="RUNNING_CODE",N))(G||{});export{G as E,I as M,_ as i};
+//# sourceMappingURL=ns51nblw8ziscsgd.js.map
