@@ -1,0 +1,2 @@
+import{lg as i,R as u}from"./ghewn7l2ynbm32fm.js";import{b as m,r as s}from"./i8clt0mfz495j7ii.js";const p=(r,t)=>{const{data:a,isLoading:e,error:n}=m({queryKey:["cancellationPromotion"],queryFn:async()=>u.safeGet("/promotions/cp",{parameters:{query:{account_id:r}}}),enabled:t});return{cancellationPromoMetadata:s.useMemo(()=>{var o;return!(a!=null&&a.metadata)||a.metadata.plan_name!==i.PLUS||((o=a.metadata.duration)==null?void 0:o.period)!=="month"?null:a.metadata},[a]),isCancelPromoLoading:e,promoError:n}};export{p as u};
+//# sourceMappingURL=bjlbvo9rov23708i.js.map

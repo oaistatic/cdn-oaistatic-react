@@ -1,0 +1,2 @@
+import{f as d}from"./i8clt0mfz495j7ii.js";const o=(e,s)=>Array.isArray(e)?s.formatList(e.map(r=>s.formatMessage(a[r])),{style:"narrow"}):s.formatMessage(a[e]),a=d({deepResearch:{id:"r08FIf",defaultMessage:"Deep research"},codex:{id:"P4DHkR",defaultMessage:"Codex"},chat:{id:"c+Ep08",defaultMessage:"Chat"},fileUploads:{id:"1JCCyh",defaultMessage:"File uploads"},odyssey:{id:"GUAx6M",defaultMessage:"Agent mode"}});export{o as l};
+//# sourceMappingURL=ncfg0tfjoho50i9v.js.map

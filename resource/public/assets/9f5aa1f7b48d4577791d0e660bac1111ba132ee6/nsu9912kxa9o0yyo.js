@@ -1,0 +1,2 @@
+import{c,r as u,j as i}from"./i8clt0mfz495j7ii.js";import{u as m,a0 as g,nn as f,P as l}from"./ghewn7l2ynbm32fm.js";function x(){"use forget";const t=c.c(4),r=m(),a=g(r,"590557768");let e;t[0]===Symbol.for("react.memo_cache_sentinel")?(e=[],t[0]=e):e=t[0],u.useEffect(p,e);const s=f,n=a.get("should_show_return_home_btn",!1);let o;return t[1]!==s||t[2]!==n?(o=i.jsx(s,{showReturnHome:n}),t[1]=s,t[2]=n,t[3]=o):o=t[3],o}function p(){l.logEventWithStatsig("404 Page Shown","chatgpt_404_page_shown")}export{x as N};
+//# sourceMappingURL=nsu9912kxa9o0yyo.js.map

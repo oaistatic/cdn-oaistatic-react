@@ -1,0 +1,3 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/fkxibn5xlry0itzs.js","assets/i8clt0mfz495j7ii.js","assets/e5a6ih8pvtg5hkvc.js"])))=>i.map(i=>d[i]);
+import{j as l,_ as e}from"./i8clt0mfz495j7ii.js";import{o as s,L as r}from"./ghewn7l2ynbm32fm.js";const c=["pptx","xlsx"],i=n=>{const o=c,t=n.split(".").pop();return!t||!o.includes(t)?null:t},x=n=>!!i(n),_=s(()=>e(()=>import("./fkxibn5xlry0itzs.js").then(n=>n._),__vite__mapDeps([0,1])),{loading:n=>r(n)}),a=s(()=>e(()=>import("./e5a6ih8pvtg5hkvc.js").then(n=>n._),__vite__mapDeps([2,1])),{loading:n=>r(n)}),p={pptx:a,xlsx:_},d=({fileName:n})=>{if(!n)return null;const o=i(n),t=o?p[o]:null;return t?l.jsx(t,{className:"m-0 size-5"}):null};export{d as F,i as g,x as i};
+//# sourceMappingURL=czlj2e41cb4c3w4v.js.map

@@ -1,0 +1,2 @@
+import{bO as u}from"./ghewn7l2ynbm32fm.js";function p({thread:r,messageId:o,contentReferenceStartIndex:s,productIndex:c}){var a,i;if(!r||!o||s===void 0||c===void 0)return{};const e=(i=(a=u.getNode(r,o).message.metadata)==null?void 0:a.content_references)==null?void 0:i.find(n=>n.start_idx===s);if(!e)return{};let t;switch(e.type){case"products":t=e.products[c];break;case"product_entity":t=e.product;break}return t?{product:t}:{}}export{p as g};
+//# sourceMappingURL=gjip6pne3m251qjn.js.map
