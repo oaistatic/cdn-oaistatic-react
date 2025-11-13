@@ -1,0 +1,2 @@
+import{dU as c,u,N as l,J as t}from"./ncw8zw682jinppua.js";function b(){const n=c(),s=u(),o=!l(s),d=t(s,"766296922"),e=t(s,"3148583717");if(!d)return{isEnabled:e,reason:e?"none":"disabled"};if(o)return{isEnabled:e,reason:e?"none":"disabled"};const a=n==null?void 0:n.isDelinquent,i=n==null?void 0:n.ssoConnectionName;return{isEnabled:e&&!a&&!i,reason:e?a?"delinquent":i?"sso":"none":"disabled"}}function h(n){return t(n,"1759425419")}export{h as c,b as u};
+//# sourceMappingURL=evy28vmenoadahce.js.map

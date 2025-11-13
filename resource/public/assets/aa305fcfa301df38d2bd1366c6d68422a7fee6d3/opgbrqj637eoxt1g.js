@@ -1,0 +1,2 @@
+import{dU as e,am as i}from"./ncw8zw682jinppua.js";function l(){var r,n;const s=e(),t=(r=s==null?void 0:s.isSelfServeBusiness())!=null?r:!1,u=(n=s==null?void 0:s.isEnterprisey())!=null?n:!1;return t||u}function p(){const s=e();return s==null?void 0:s.isPlus()}function f(){const s=e();return s==null?void 0:s.isPro()}function o(){const s=e();return(s==null?void 0:s.planType)===i.DEPRECATED_ENTERPRISE||(s==null?void 0:s.planType)===i.DEPRECATED_EDU}export{p as a,o as b,f as c,l as u};
+//# sourceMappingURL=opgbrqj637eoxt1g.js.map
