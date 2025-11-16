@@ -1,0 +1,2 @@
+import{r as t}from"./kfrdmkli83ureki3.js";import"./kw08ajijqinojrwh.js";const n={version:0,useLocation:!1,temperatureUnit:void 0},o=t.createContext({settings:n,setSettings:()=>{}}),i={suggestions:!0,showInlineFollowups:!1},r=t.createContext({settings:i,setSettings:()=>{}});function u(){const{settings:e,setSettings:s}=t.useContext(o);return[e,s]}function c(){const{settings:e,setSettings:s}=t.useContext(r);return[e,s]}export{i as I,c as a,u};
+//# sourceMappingURL=lfpgz10qy2vdux3v.js.map

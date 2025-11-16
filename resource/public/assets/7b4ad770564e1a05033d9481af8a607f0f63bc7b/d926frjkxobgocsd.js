@@ -1,0 +1,2 @@
+import{R as e}from"./kw08ajijqinojrwh.js";class r{static async createVerification(){return e.safePost("/teachers/create_verification")}static async refreshEnrollmentStatus(){return e.safePost("/teachers/refresh_enrollment_status")}static async refreshInviteStatus(t){return e.safePost("/teachers/refresh_invite_status",{requestBody:{account_invite_id:t}})}static async acceptInvite(t){return e.safePost("/teachers/accept_teacher_invite",{requestBody:{account_invite_id:t}})}}export{r as T};
+//# sourceMappingURL=d926frjkxobgocsd.js.map

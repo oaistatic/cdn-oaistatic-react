@@ -1,0 +1,2 @@
+import{c as a,j as m}from"./kfrdmkli83ureki3.js";import{C as p}from"./k44kv22xsvpdoegr.js";function d(r){"use forget";const t=a.c(5),{children:o,className:n,contentWidth:c,ariaLabelledby:s}=r,i=c===void 0?"wide":c;let e;return t[0]!==s||t[1]!==o||t[2]!==n||t[3]!==i?(e=m.jsx(p,{className:n,spacingAbove:"spacious",contentWidth:i,ariaLabelledby:s,children:o}),t[0]=s,t[1]=o,t[2]=n,t[3]=i,t[4]=e):e=t[4],e}export{d as F};
+//# sourceMappingURL=mxpjw7wzlwmw0y8d.js.map

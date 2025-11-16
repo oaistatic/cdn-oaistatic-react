@@ -1,0 +1,2 @@
+import{e as d}from"./kfrdmkli83ureki3.js";const o=(e,s)=>Array.isArray(e)?s.formatList(e.map(r=>s.formatMessage(a[r])),{style:"narrow"}):s.formatMessage(a[e]),a=d({deepResearch:{id:"r08FIf",defaultMessage:"Deep research"},codex:{id:"P4DHkR",defaultMessage:"Codex"},chat:{id:"c+Ep08",defaultMessage:"Chat"},fileUploads:{id:"1JCCyh",defaultMessage:"File uploads"},odyssey:{id:"GUAx6M",defaultMessage:"Agent mode"}});export{o as l};
+//# sourceMappingURL=ntv4kfm86o2gt0x7.js.map
