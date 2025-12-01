@@ -1,0 +1,2 @@
+import{j as e,M as a}from"./mw35uwhq4g8r9eam.js";import{cF as r}from"./d0xa318sl7ywi0za.js";function o({className:s,field:t}){return e.jsxs("div",{className:r("flex w-full items-center gap-2",s),children:[t.state.meta.isTouched&&t.state.meta.errors.length?e.jsx("span",{className:"text-token-text-status-error text-xs",children:t.state.meta.errors.join(",")}):null,t.state.meta.isValidating?e.jsx(a,{id:"wham.createEnvironments.validating",defaultMessage:"Validating…"}):null]})}export{o as F};
+//# sourceMappingURL=oyfed4d8xid8ujwa.js.map

@@ -1,0 +1,2 @@
+import{y as c,c as n,j as i,ah as a}from"./mw35uwhq4g8r9eam.js";import{u as p,al as m}from"./d0xa318sl7ywi0za.js";import{i as l}from"./b6b825aypab1vbku.js";const h=c(function(){"use forget";const e=n.c(3),r=p(),s=m(r);if(l(r),!(s!=null&&s.isEnterprisey())){let o;return e[0]===Symbol.for("react.memo_cache_sentinel")?(o=i.jsx(a,{to:"/apps",replace:!0}),e[0]=o):o=e[0],o}let t;return e[2]===Symbol.for("react.memo_cache_sentinel")?(t=i.jsx(a,{to:"/",replace:!0}),e[2]=t):t=e[2],t});export{h as default};
+//# sourceMappingURL=i93v8vukj6nag0si.js.map

@@ -1,0 +1,2 @@
+import{r as f}from"./mw35uwhq4g8r9eam.js";const I=({root:r=void 0,rootMargin:t="0px",threshold:n=0,onlyOnce:c=!1})=>{const[u,i]=f.useState(!1),a=f.useCallback(e=>{if(!e)return;const s=new IntersectionObserver(o=>{for(const b of o)b.isIntersecting?(i(!0),c&&e&&s.unobserve(e)):i(!1)},{root:r,rootMargin:t,threshold:n});return s.observe(e),()=>{s.unobserve(e)}},[r,t,n,c]);return[u,a]};export{I as u};
+//# sourceMappingURL=f9zm06cvq49h9y4w.js.map

@@ -1,0 +1,2 @@
+import{aV as r}from"./d0xa318sl7ywi0za.js";function a(e){return e instanceof r&&typeof e.detail=="object"&&"error_type"in e.detail&&"message"in e.detail?{error_type:e.detail.error_type,message:e.detail.message}:null}export{a as g};
+//# sourceMappingURL=jzs4duvmz6iq4bpr.js.map

@@ -1,0 +1,2 @@
+import{y as o,a9 as a,j as r}from"./mw35uwhq4g8r9eam.js";import{u as i,al as l,b9 as c,oT as u}from"./d0xa318sl7ywi0za.js";import{u as f}from"./erh4gpcetv5nybn0.js";import{r as m}from"./g2euln7v5pbm31qa.js";const _=()=>(m(),null),k=o(function(){const t=i(),s=l(t),n=c(t,"3553340571").get("enable_api",!1),e=!!s&&n;return f(e),a(),e?r.jsx(u,{children:!1}):null});export{_ as clientLoader,k as default};
+//# sourceMappingURL=qifwvz66qot3j2rw.js.map

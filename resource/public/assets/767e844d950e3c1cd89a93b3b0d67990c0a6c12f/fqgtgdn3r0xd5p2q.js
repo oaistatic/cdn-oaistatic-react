@@ -1,0 +1,2 @@
+import{R as o,j as t}from"./mw35uwhq4g8r9eam.js";import{g as a,r as m}from"./fr3ojfw2u5qms8to.js";import{cF as i}from"./d0xa318sl7ywi0za.js";import{a as c,C as n}from"./o096ka50hcktyghb.js";import"./h7m4lglq6oq2rp3g.js";import"./g2euln7v5pbm31qa.js";import"./m6diiweku3494llq.js";const p=o.memo(({text:e,alignment:r="left"})=>{const s=a();return t.jsx("div",{className:i(n,r==="center"&&"text-center"),children:t.jsx("div",{className:c,children:m.documentToReactComponents(e,s)})})});p.displayName="Text";export{p as default};
+//# sourceMappingURL=fqgtgdn3r0xd5p2q.js.map
